@@ -3,7 +3,24 @@ html{
 }
 .abilities{
 	background-color: paleturquoise;
+	text-indent: 50px;
 }
 .references{
 	background-color: paleturquoise;
+	text-indent: 50px;
+}
+.header{
+	text-align: center;
+}
+.headerimg{
+	text-align: center;
+}
+.mainheader{
+	text-indent: 35px;
+}
+.topimage{
+	text-align: center;
+}
+.mainp{
+	text-indent: 25px;
 }
