@@ -1,6 +1,16 @@
 html{
 	background-color: #FBE0BF;
 }
+body{
+	margin: 0;
+}
+header{
+	background-color: #44B5D3;
+	text-align: center;
+}
+header h1{
+	color: grey;
+}
 .abilities{
 	background-color: paleturquoise;
 	text-indent: 50px;
