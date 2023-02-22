@@ -1,5 +1,5 @@
 html{
-	background-color: #B4C2C2;
+	background-color: #C0C0C0;
 	font-family: palatino, monospace, Lucida Console;
 }
 body{
@@ -12,11 +12,12 @@ header{
 }
 header h1{
 	color: #B0E0E6;
+	font-size: 40px;
 }
 header img{
 	border-radius: 250px;
 	height: 300px;
-	border: 10px solid #3C9DB6;
+	border: 7px solid #C0C0C0;
 }
 footer{
 	text-indent: 40px;
@@ -47,11 +48,15 @@ footer{
 .mainheader{
 	text-indent: 65px;
 }
+.mainimg{
+	border: 20px solid #3C9DB6;
+}
 .topimage{
 	text-align: center;
 }
 .mainp{
-	text-indent: 120px;
+	text-align: center;
+	font-size: 20px;
 }
 .abilitylist{
 	padding-left: 100px;
