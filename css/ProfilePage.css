@@ -1,23 +1,42 @@
 html{
-	background-color: #FBE0BF;
+	background-color: #B4C2C2;
+	font-family: palatino, monospace, Lucida Console;
 }
 body{
-	margin: 0;
+
 }
 header{
-	background-color: #44B5D3;
+	background-color: #3C9DB6;
 	text-align: center;
+	padding-top: 50px;
 }
 header h1{
-	color: grey;
+	color: #B0E0E6;
+}
+header img{
+	border-radius: 250px;
+	height: 300px;
+	border: 10px solid #3C9DB6;
+}
+footer{
+	text-indent: 40px;
+	background-color: #E0E4E4;
 }
 .abilities{
-	background-color: paleturquoise;
 	text-indent: 50px;
 }
 .references{
-	background-color: paleturquoise;
 	text-indent: 50px;
+}
+.referencesp{
+	background-color: #3C9DB6;
+	padding-left: 45px;
+	padding-top: 6px;
+	padding-bottom: 18px;
+}
+.referencesul{
+	padding-left: 100px;
+	background-color: #3C9DB6;
 }
 .header{
 	text-align: center;
@@ -26,11 +45,18 @@ header h1{
 	text-align: center;
 }
 .mainheader{
-	text-indent: 35px;
+	text-indent: 65px;
 }
 .topimage{
 	text-align: center;
 }
 .mainp{
-	text-indent: 25px;
+	text-indent: 120px;
+}
+.abilitylist{
+	padding-left: 100px;
+	background-color: #3C9DB6;
+}
+.footerp{
+	padding-left: 30px;
 }
