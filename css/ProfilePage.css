@@ -5,6 +5,9 @@ html{
 body{
 
 }
+h1, h2{
+	font-family: 'Lora', serif;
+}
 header{
 	background-color: #3C9DB6;
 	text-align: center;
@@ -19,6 +22,15 @@ header img{
 	height: 300px;
 	border: 7px solid #C0C0C0;
 }
+main{
+	max-width: 8000px;
+	margin: 0 auto;
+	padding-left: 15px;
+}
+main img{
+	max-width: 95%;
+	text-align: center;
+}
 footer{
 	text-indent: 40px;
 	background-color: #E0E4E4;
@@ -30,7 +42,6 @@ footer{
 	text-indent: 50px;
 }
 .referencesp{
-	background-color: #3C9DB6;
 	padding-left: 45px;
 	padding-top: 6px;
 	padding-bottom: 18px;
@@ -50,6 +61,7 @@ footer{
 }
 .mainimg{
 	border: 20px solid #3C9DB6;
+	text-align: center;
 }
 .topimage{
 	text-align: center;
