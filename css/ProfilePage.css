@@ -38,10 +38,12 @@ footer{
 .abilities{
 	text-indent: 50px;
 	color: #5EA383;
+	font-weight:normal
 }
 .references{
 	text-indent: 50px;
 	color: #5EA383;
+	font-weight:normal
 }
 .referencesp{
 	padding-left: 45px;
