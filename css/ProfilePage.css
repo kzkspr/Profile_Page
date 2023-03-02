@@ -37,9 +37,11 @@ footer{
 }
 .abilities{
 	text-indent: 50px;
+	color: #5EA383;
 }
 .references{
 	text-indent: 50px;
+	color: #5EA383;
 }
 .referencesp{
 	padding-left: 45px;
@@ -48,7 +50,9 @@ footer{
 }
 .referencesul{
 	padding-left: 100px;
-	background-color: #3C9DB6;
+	border: 5px solid #3C9DB6;
+	margin: 0 50px;
+	margin-right: 400px;
 }
 .header{
 	text-align: center;
@@ -60,7 +64,7 @@ footer{
 	text-indent: 65px;
 }
 .mainimg{
-	border: 20px solid #3C9DB6;
+	border: 15px solid #3C9DB6;
 	text-align: center;
 }
 .topimage{
@@ -72,7 +76,9 @@ footer{
 }
 .abilitylist{
 	padding-left: 100px;
-	background-color: #3C9DB6;
+	border: 5px solid #3C9DB6;
+	margin: 0 50px;
+	margin-right: 400px;
 }
 .footerp{
 	padding-left: 30px;
